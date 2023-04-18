@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
@@ -7,7 +7,7 @@
 <p align="left">My name is Sufaina Nesrin and I'm a developer, from Kerala,India</p>
 
 ###
-<img align="right" alt="coding" width="400" src="https://giphy.com/stickers/platzi-it-code-developer-YnS7j9pwnECXLMrI4t"/>
+
 
 <h2 align="left">About me</h2>
 
