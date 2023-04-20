@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning node js<br>🎲 Fun fact: I love to read memes</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning node js<br>🎲 Fun fact: I love to read memes</p>
 
 ###
 
